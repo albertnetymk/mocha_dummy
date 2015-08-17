@@ -1,0 +1,10 @@
+{
+  "name": "mocha_dummy",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "coffee-script": "~1.9.1"
+  },
+  "license": "MIT"
+}
